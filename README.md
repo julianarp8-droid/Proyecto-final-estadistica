@@ -1,5 +1,9 @@
 # Simulación de Seis Grados de Separación
 
+Ivanna Alvarez 2251805
+
+Maria Juliana Rueda 2251801
+
 Réplica empírica del experimento de **Watts & Strogatz (1998)** sobre redes *small-world*.
 
 El objetivo es verificar que a medida que se aumenta la probabilidad de reconexión aleatoria `p` en un grafo, la distancia promedio entre nodos cae rápidamente mientras el coeficiente de clustering se mantiene alto — ese es el fenómeno *small-world* que explica los "seis grados de separación".
